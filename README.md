@@ -1,1 +1,1 @@
-# s2-lab
+S2 Lab programs
